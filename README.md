@@ -1,4 +1,4 @@
 # cursoLogica-p
 Lógica de programação
 
-Aprendendo logica de programção
+Aprendendo logica de programação
