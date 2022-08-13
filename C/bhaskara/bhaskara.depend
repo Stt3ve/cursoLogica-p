@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660352910 source:c:\users\ormindo\documents\nova pasta\bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
