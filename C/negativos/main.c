@@ -3,7 +3,7 @@
 
 int main(){
 
-    int N, nN, vet[10];
+    int N, vet[10];
 
     printf("Quantos numeros voce vai digitar? ");
     scanf("%d", &N);
