@@ -1,0 +1,8 @@
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\bin\Debug\trocaNomes.exe.config
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\bin\Debug\trocaNomes.exe
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\bin\Debug\trocaNomes.pdb
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\obj\Debug\trocaNomes.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\obj\Debug\trocaNomes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\obj\Debug\trocaNomes.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\obj\Debug\trocaNomes.exe
+C:\Users\Informatica\Desktop\c#\trocaNomes\trocaNomes\obj\Debug\trocaNomes.pdb
