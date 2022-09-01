@@ -1,0 +1,8 @@
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.exe.config
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.exe
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\bin\Debug\multiplicacaoMatrizes.pdb
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.exe
+C:\Users\Informatica\Desktop\c#\multiplicacaoMatrizes\multiplicacaoMatrizes\obj\Debug\multiplicacaoMatrizes.pdb
