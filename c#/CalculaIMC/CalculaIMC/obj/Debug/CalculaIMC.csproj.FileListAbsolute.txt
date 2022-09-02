@@ -1,0 +1,8 @@
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\bin\Debug\CalculaIMC.exe.config
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\bin\Debug\CalculaIMC.exe
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\bin\Debug\CalculaIMC.pdb
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.AssemblyReference.cache
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.exe
+C:\Users\Informatica\Desktop\c#\CalculaIMC\CalculaIMC\obj\Debug\CalculaIMC.pdb
